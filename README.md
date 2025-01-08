@@ -9,6 +9,10 @@ Chatbot 使用 Google Gemini API 來生成回應。這意味著它可以理解�
 3. Retrieval-Augmented Generation (RAG)
 Chatbot 結合了 RAG 技術，這意味著它不僅能生成回應，還能檢索並整合網路上的資訊，提供更豐富和有深度的回答。
 
+## 預覽畫面
+
+![image]p1
+
 ## 如何使用
 執行 streamlit run gemini_rag.py
 輸入您的問題：在應用的輸入框中輸入您的問題。
