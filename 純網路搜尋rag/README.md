@@ -11,7 +11,7 @@ Chatbot 結合了 RAG 技術，這意味著它不僅能生成回應，還能檢�
 
 ## 預覽畫面
 
-![image](images/demop1.png)
+![image](../images/demop1.png)
 
 ## 如何使用
 執行 streamlit run gemini_rag.py
