@@ -1,6 +1,6 @@
-正在收集工作區資訊# 向量資料庫 RAG Chatbot
+#向量資料庫 RAG Chatbot
 
-基於 RAG (Retrieval-Augmented Generation) 架構的震動分析智慧問答系統
+基於 RAG (Retrieval-Augmented Generation) 架構的智慧問答系統
 
 ## 📝 功能特色
 
