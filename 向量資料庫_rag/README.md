@@ -1,4 +1,4 @@
-#向量資料庫 RAG Chatbot
+# 向量資料庫 RAG Chatbot
 
 基於 RAG (Retrieval-Augmented Generation) 架構的智慧問答系統
 
