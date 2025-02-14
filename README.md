@@ -1,6 +1,6 @@
 # RAG_chatbot
 🚀 Chatbot 應用!💬
-Chatbot 應用已經上線！這個應用結合了 Google Gemini 和 RAG（Retrieval-Augmented Generation）技術，為您提供更智能、更準確的對話體驗。
+這個應用結合了 Google Gemini 和 RAG（Retrieval-Augmented Generation）技術，為您提供更智能、更準確的對話體驗。
 ## 主要功能
 1. Google Gemini API
 Chatbot 使用 Google Gemini API 來生成回應。這意味著它可以理解並生成自然語言，提供更流暢和人性化的對話體驗。
